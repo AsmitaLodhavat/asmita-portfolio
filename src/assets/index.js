@@ -28,6 +28,7 @@ import tesla from "./company/tesla.png";
 
 import hungryhub from "./hungryhub.png";
 import FurryTales from "./FurryTales.png"
+import YoutubeClone from "./YoutubeClone.png"
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import java from "./tech/java.png"
@@ -73,4 +74,5 @@ export {
   education,
   hungryhub,
   FurryTales,
+  YoutubeClone,
 };

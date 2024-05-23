@@ -31,6 +31,7 @@ import {
     education,
     hungryhub,
     FurryTales,
+    YoutubeClone,
   } from "../assets";
   
   export const navLinks = [
@@ -235,6 +236,27 @@ import {
       ],
       image: FurryTales,
       source_code_link: "https://github.com/DMCW280421/FurryTales",
+    },
+    {
+      name: "Youtube Clone",
+      description:"YouTube Clone Application is a responsive React.js application built with Material UI 5 and integrated with Rapid API for dynamic video content. It features stunning video sections, custom categories, channel pages, and a seamless video playback experience directly within the app. This project highlights my skills in creating user-friendly interfaces, managing state with React, and efficiently fetching and displaying data from external APIs.",
+            tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Material UI 5",
+          color: "green-text-gradient",
+        },
+        {
+          name: "RapidAPI",
+          color: "pink-text-gradient",
+        },
+        
+      ],
+      image: YoutubeClone,
+      source_code_link: "https://github.com/AsmitaLodhavat/Youtube_Clone",
     },
     
   ];
